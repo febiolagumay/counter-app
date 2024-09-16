@@ -1,0 +1,46 @@
+body {
+    background-image: url("llma.webp");
+    background-size: cover ;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    color: brown
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 80px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: brown;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    text-shadow: 0px 0px 4px
+    
+}
+
+#increment-btn {
+    background: aliceblue;
+}
+
+#save-btn {
+    background: bisque;
+}
+
+p {
+    font-size: 20px;
+}
